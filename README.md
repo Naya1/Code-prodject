@@ -1,10 +1,10 @@
 # Code-prodject
 Basic whatever
-print "Table of Squares"
-print
-print "How many values would you like?"
-input num
-for i=1 to num
-print i, i*i
-next i
-end
+10 print "Table of Squares"
+20 print
+30 print "How many values would you like?"
+40 input num
+50 for i=1 to num
+60 print i, i*i
+70 next i
+80 end
